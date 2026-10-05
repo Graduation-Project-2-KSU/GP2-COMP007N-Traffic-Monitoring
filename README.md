@@ -3,7 +3,7 @@
 **Course:** NET 496 - Graduation Project 2  
 **Academic Year:** 2025–2026  
 **Institution:** King Saud University - College of Applied Studies and Community Services  
-**Department:** Computer Science and Engineering (Network Track)  
+**Department:** Applied Computing -Computer Networks Track   
 **Supervisor:** Dr. Ahmad Ali Awwad Alzubi  
 **Google Drive:** [Shared Project Folder(Google Drive)](https://drive.google.com/drive/folders/1itbMt8Iw2z6txtT1Jx2jHxoFjxKt-Zl2?usp=sharing)  
 
