@@ -218,3 +218,25 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# ==========================================
+# GP2 Project Artifacts (Excluded from Git)
+# ==========================================
+# Large packet capture dumps
+*.pcap
+*.pcapng
+*.cap
+
+# Suricata & Elastic large log outputs
+*.json
+*.log
+eve.json
+
+# Virtual Machine and GNS3 disk images
+*.vmdk
+*.qcow2
+*.iso
+*.img
+
+# OS / Editor temporary files
+.DS_Store
+Thumbs.db
