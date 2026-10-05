@@ -31,8 +31,3 @@ This project provides an empirical, side-by-side comparative analysis between **
 └── README.md                 # Project documentation and setup guide
 ---
 
-## ☁️ Shared Resources & Datasets
-- **Google Drive Repository:** [Insert Google Drive Link Here]
-  - `01_VMs_and_Images/`: Virtual machine appliances (Kali Linux, Windows 7 SP1, Cisco IOU images).
-  - `02_PCAP_Captures/`: Raw multi-gigabyte packet capture files (`baseline.pcap`, `ssh_brute.pcap`, etc.).
-  - `03_Documentation/`: Working report drafts and high-resolution architecture diagrams.
